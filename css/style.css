@@ -1,3 +1,30 @@
+* {
+  font-family: sans-serif;
+}
+
 nav img {
   border-radius: 5px;
+}
+
+.top {
+  display: flex;
+  margin-top: 50px;
+  border: solid medium black;
+  padding: 0 0 0 100px;
+}
+
+.top .summary {
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  justify-content: center;
+}
+
+.top img {
+  border: solid medium black;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  margin-right: 100px;
+  margin-left: -100px;
 }
