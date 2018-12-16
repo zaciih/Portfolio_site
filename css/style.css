@@ -8,9 +8,10 @@ nav img {
 
 .top {
   display: flex;
-  margin-top: 50px;
+  margin-top: 100px;
   /* border: solid medium black; */
   padding: 0 0 0 100px;
+  background-color: lightgrey;
 }
 
 .top .summary {
@@ -21,7 +22,7 @@ nav img {
 }
 
 .top img {
-  border: solid medium #F4005A;
+  border: solid medium #451251;
   border-radius: 50%;
   width: 400px;
   height: 400px;
@@ -31,4 +32,8 @@ nav img {
 
 .top h1 {
   color: #F4005A;
+}
+
+.lorem {
+  font-size: 80px;
 }
