@@ -21,6 +21,10 @@ nav img {
   justify-content: center;
 }
 
+.top .summary h3 {
+  margin-bottom: 10px;
+}
+
 .top img {
   border: solid medium #451251;
   border-radius: 50%;
@@ -30,6 +34,12 @@ nav img {
   margin-left: -100px;
 }
 
+@media (max-width: 1000px) {
+  .top img {
+  height: 200px;
+  width: 200px;
+  }
+}
 .top h1 {
   color: #F4005A;
 }
