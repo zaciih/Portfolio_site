@@ -47,3 +47,17 @@ nav img {
 .lorem {
   font-size: 80px;
 }
+
+.videos {
+  margin-top: 50px;
+}
+
+.videos h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.carousel_button {
+  height: 400px;
+}
