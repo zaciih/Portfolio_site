@@ -9,7 +9,7 @@ nav img {
 .top {
   display: flex;
   margin-top: 50px;
-  border: solid medium black;
+  /* border: solid medium black; */
   padding: 0 0 0 100px;
 }
 
@@ -21,10 +21,14 @@ nav img {
 }
 
 .top img {
-  border: solid medium black;
+  border: solid medium #F4005A;
   border-radius: 50%;
   width: 400px;
   height: 400px;
   margin-right: 100px;
   margin-left: -100px;
+}
+
+.top h1 {
+  color: #F4005A;
 }
