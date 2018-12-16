@@ -11,7 +11,8 @@ nav img {
   margin-top: 100px;
   /* border: solid medium black; */
   padding: 0 0 0 100px;
-  background-color: lightgrey;
+  /* background-color: lightgrey; */
+  border: solid medium #451251;
 }
 
 .top .summary {
@@ -44,6 +45,10 @@ nav img {
   color: #F4005A;
 }
 
-.lorem {
-  font-size: 80px;
+.cards {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  /* background-color: #451251; */
+  /* border: solid medium #451251; */
 }
