@@ -53,3 +53,20 @@ nav img {
   /* background-color: #451251; */
   /* border: solid medium #451251; */
 }
+
+.skills {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+
+.skills-container {
+  display: flex;
+  /* border: solid medium black; */
+}
+
+.about-header {
+  display: flex;
+  justify-content: center;
+}
