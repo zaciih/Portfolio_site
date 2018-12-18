@@ -52,10 +52,8 @@ nav img {
   margin-top: 50px;
 }
 
-.videos h1 {
-  display: flex;
-  justify-content: center;
-  margin-top: 100px;
+.videos {
+  margin-top: 10px;
 }
 
 .carousel_button {
